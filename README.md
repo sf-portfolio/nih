@@ -6,6 +6,9 @@ This project involves processing NIH (National Institutes of Health) data, inclu
 
 The datasets can be accessed [here](https://drive.google.com/drive/folders/1KGfCPYt3XTgRcJSDBMzEOTzMoMnu1pOS?usp=drive_link)
 or https://reporter.nih.gov/exporter if you prefer to get the datasets directly from the NIH website.
+
+My finalized Master's capstone project can be found on sheridfriedman.com
+
 Folder Structure
 
 The project is organized into several folders:

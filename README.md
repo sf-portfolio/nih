@@ -4,6 +4,8 @@ NIH Generally Keeps Investing in More Edge Science: Examining Research Projects 
 Project Overview
 This project involves processing NIH (National Institutes of Health) data, including tasks such as data cleaning, filtering, and column mapping. The code is written in Python and utilizes the pandas library for data manipulation.
 
+The datasets can be accessed [here](https://drive.google.com/drive/folders/1KGfCPYt3XTgRcJSDBMzEOTzMoMnu1pOS?usp=drive_link)
+or https://reporter.nih.gov/exporter if you prefer to get the datasets directly from the NIH website.
 Folder Structure
 
 The project is organized into several folders:
